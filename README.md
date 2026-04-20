@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Gambhir Poudel
 ![](https://cdn.discordapp.com/attachments/1036120891857305661/1188466465347739729/Debbie_Balboa.gif?ex=659aa0a5&is=65882ba5&hm=71cf963c45fc378168e54bcf5f60e3ff4db387b8f29190f1a521b11ce004d6c4&)
 # 💫 About Me:
- help businesses build reliable mobile and web products — from idea to production. I work across the full stack: Flutter for cross-platform mobile apps, React/Next.js for web, and Node.js/Express with Supabase for the backend. My focus is always on clean architecture, maintainable code, and shipping things that actually work.
+I help businesses build reliable mobile and web products — from idea to production. I work across the full stack: Flutter for cross-platform mobile apps, React/Next.js for web, and Node.js/Express with Supabase for the backend. My focus is always on clean architecture, maintainable code, and shipping things that actually work.
 
 
 ## 🌐 Socials:
