@@ -14,11 +14,8 @@ My focus is always on clean architecture, maintainable code, and shipping things
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gambhirpoudel/)
-[![Upwork](https://img.shields.io/badge/Upwork-%2314a800.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0179c4b07fcedadd61)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2314a800.svg?logo=whatsapp&logoColor=white)](https://wa.me/9742503468)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/matkarladle69)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mrzaddytv)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dW7ZnMv583)
-
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=ZaddyAI&theme=react&hide_border=false&include_all_commits=true&count_private=true)
