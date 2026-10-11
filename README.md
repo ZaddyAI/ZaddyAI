@@ -4,15 +4,17 @@
 
 ## About Me
 
-I'm a developer from Nepal who enjoys building practical, scalable, and user-friendly digital products. I work across mobile, web, and backend development, turning ideas into reliable software with a focus on clean architecture, maintainability, and great user experiences.
+I'm **Gambhir Poudel**, a developer from Nepal passionate about building modern, scalable, and user-friendly digital products. I work across mobile, frontend, and backend development, transforming ideas into reliable applications with clean architecture, maintainable code, and thoughtful user experiences.
 
-- 🌍 Based in Nepal, building solutions for Nepal and beyond.
-- 💻 Interested in full-stack development, mobile applications, and developer tools.
-- 📱 Building cross-platform mobile apps with Flutter.
-- 🌐 Developing modern web applications with React and Next.js.
-- ⚙️ Working with Node.js, Express, and Supabase for backend solutions.
-- 🚀 Portfolio: [gambhirpoudel.com.np](https://www.gambhirpoudel.com.np/)
-- 📬 Contact me: [Let's Connect](https://www.gambhirpoudel.com.np/#contact)
+- 🌍 Based in Nepal 🇳🇵, building software for Nepal and beyond.
+- 💻 Focused on full-stack development, mobile applications, and practical software solutions.
+- 📱 Building cross-platform mobile applications with **Flutter & Dart**.
+- 🌐 Creating modern, responsive web applications with **React, Next.js & Vite**.
+- ⚙️ Developing backend systems with **Node.js, Express.js & Prisma ORM**.
+- 🗄️ Working with **PostgreSQL & MySQL** for database management.
+- 📦 Creator of [Nepali Calendar Kit](https://nepalicalendarkit.gambhirpoudel.com.np), an npm package for BS/AD date conversion.
+- 🚀 **Portfolio:** [gambhirpoudel.com.np](https://www.gambhirpoudel.com.np/)
+- 📬 **Contact:** [Let's Connect](https://www.gambhirpoudel.com.np/#contact)
 
 ## Tech Stack
 
